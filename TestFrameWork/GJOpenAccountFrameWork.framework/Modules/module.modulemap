@@ -1,0 +1,6 @@
+framework module GJOpenAccountFrameWork {
+  umbrella header "GJOpenAccountFrameWork.h"
+
+  export *
+  module * { export * }
+}
